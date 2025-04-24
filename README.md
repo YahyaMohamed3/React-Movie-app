@@ -1,12 +1,27 @@
-# React + Vite
+# 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to search for movies using an external API and add their favorite ones to a list. This project was built as a learning exercise to understand the basics of React — including components, state, props, and API integration.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+![Screenshot 2025-04-24 143352](https://github.com/user-attachments/assets/1de45be5-29ed-48fb-a134-1b67de1a765b)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+## 🚀 Features
+
+- 🔍 Search for movies by name
+- 📃 Display search results with posters, titles, and release years
+- ❤️ Add and remove movies from a favorites list
+- 🌙 Clean and minimal UI using basic CSS or Bootstrap
+
+## 🛠 Tech Stack
+
+- **React** (Functional components & Hooks)
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3** (or Bootstrap)
+- **Movie API**: [OMDb API](http://www.omdbapi.com/) or similar
+
+- 
